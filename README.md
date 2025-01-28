@@ -4,4 +4,4 @@
 
 
 ## **Demo**
-<iframe width="560" height="315" src="https://youtu.be/LdFoxCf5MGQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/abcd1234/0.jpg)](https://youtu.be/LdFoxCf5MGQ)
